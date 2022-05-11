@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello world :wave:
 
-<!--
-**bayugiita/bayugiita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am bayugiita from Indonesia :indonesia:
 
-Here are some ideas to get you started:
+### Interest :bulb:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Javascript
+ - Typescript
+ - Node.js
+ - React JS
+
+### My contact :email:
+
+- [Github](https://github.com/bayugiita)
+- [Instagram](https://instagram.com/bayugiita)
+- [Twitter](https://twitter.com/bayugiita)
+
+Stay awesome :sunglasses:
